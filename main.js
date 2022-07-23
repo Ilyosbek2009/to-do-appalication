@@ -7,6 +7,7 @@ $(function() {
     
     //Counting amount of items in the list
     //To display or hide notification
+    //aplication
     var displayMessage = function() {
       if(!$listItems.children().length){
         //$notification.css("display", "block");
